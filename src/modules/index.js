@@ -6,7 +6,7 @@ function createHeader() {
     const header = document.createElement('header');
 
     const headerImage = document.createElement('img');
-    headerImage.src = '../src/images/header.webp';
+    headerImage.src = './images/header.webp';
     headerImage.alt = 'Junkier Foodies';
 
     const nav = document.createElement('nav');

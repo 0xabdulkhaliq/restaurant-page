@@ -18,7 +18,7 @@ function createMenuItem(menuItem){
     item.classList.add('main__menu-items');
 
     const imgOfItem = document.createElement('img');
-    imgOfItem.src = `../src/images/${menuItem}.webp`;
+    imgOfItem.src = `./images/${menuItem}.webp`;
     imgOfItem.alt = "";
 
     const nameOfItem = document.createElement('p');

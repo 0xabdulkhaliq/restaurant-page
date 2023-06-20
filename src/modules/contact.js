@@ -3,7 +3,7 @@ function createContact(){
     contact.classList.add('main__contact');
 
     const mapImage = document.createElement('img');
-    mapImage.src = '../src/images/map.webp';
+    mapImage.src = './images/map.webp';
     mapImage.alt = '';
 
     contact.append(
