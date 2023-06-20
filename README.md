@@ -1,3 +1,5 @@
+![](./design/preview.webp)
+
 # Junkier Foodies / Restaurant Page
 
 - A single page web application, build during partial completion of Odin Project
@@ -8,18 +10,19 @@
 
 <br>
 
-## Installating Dependencies
+### Installating Dependencies
 ```bash
 
 npm install
 ```
-## Building app from source
+### Building app from source
 ```bash
 
 npm run build
 ```
 
 <br>
-<br>
+
+---
 
 $\textcolor{#2F81F7}{\textsf{🛈 NOTE}}$ : &nbsp; The `dist` can be found on branch `gh-pages` of this repository
