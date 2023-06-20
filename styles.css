@@ -81,7 +81,7 @@ header img {
 .main__home-image {
     width: 12rem;
     height: 12rem;
-    background: url(../src/images/cook.webp), rgba(0,0,0,.5);
+    background: url(./images/cook.webp), rgba(0,0,0,.5);
     background-size: 120%;
     background-repeat: no-repeat;
     background-position: 50% 102%;
